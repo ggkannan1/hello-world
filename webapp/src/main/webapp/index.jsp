@@ -1,2 +1,2 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a Tomcat Server By Kannan </h2>
+<h2> Deploying on a Docker Container By Kannan </h2>
